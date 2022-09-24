@@ -1,0 +1,25 @@
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 300;
+    color: blue;
+}
+
+#app{
+    background-color: aqua;
+}
+
+#game{
+    background-color: black;
+}
+
+#chatbot{
+    background-color: aqua;
+}
+
+.line{
+    height: 6px;
+    background-color: blue;
+    width: 70px;
+    margin: 8px auto;
+}
